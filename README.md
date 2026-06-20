@@ -29,3 +29,16 @@ How to Run
 Project Type
 
 Mini Project
+
+Screenshots
+ Login page
+ <img width="1917" height="1093" alt="Screenshot 2026-06-20 124442" src="https://github.com/user-attachments/assets/9ad59930-e29c-43f0-b6b3-e4932be916d5" />
+
+ Dashboard
+ <img width="1916" height="1106" alt="Screenshot 2026-06-20 124515" src="https://github.com/user-attachments/assets/6b22a2f5-b491-49ba-bb0c-e16064181672" />
+
+ Graph Visualization
+ <img width="1918" height="1092" alt="Screenshot 2026-06-20 124657" src="https://github.com/user-attachments/assets/382e01c4-9ff2-43c3-a20f-3d89762c14b1" />
+
+ Shortest Path Result
+ <img width="1918" height="1109" alt="Screenshot 2026-06-20 124624" src="https://github.com/user-attachments/assets/946e58c8-a3ff-40cc-bb17-fc7770cc19df" />
